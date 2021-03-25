@@ -12,4 +12,6 @@ This is the second edit of this file.
 
 # Website Contents
 
+Here are the files in the website.
+
 1. index.html
